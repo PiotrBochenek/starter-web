@@ -16,6 +16,8 @@ This is a simple web project, daployment can on any web server or even local fil
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Request for review.
+
 ### Copyright
 
 2020 Git.Training.
